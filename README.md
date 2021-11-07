@@ -3,3 +3,5 @@ This file is generally just a simplified way to quickly setup a subdomain / site
 - 3 User inputs (domain, subname, subdirectory)
 - Site verification and rem0
 - quick setup
+
+Created By Cri#0421
